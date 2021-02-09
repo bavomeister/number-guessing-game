@@ -1,0 +1,28 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 400px;
+  margin: 0 auto;
+
+  margin-top: 240px;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+header h1 {
+  color: aqua;
+  text-align: center;
+}
+
+header .form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
